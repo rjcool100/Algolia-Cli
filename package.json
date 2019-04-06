@@ -12,6 +12,9 @@
   },
   "author": "rojo",
   "license": "ISC",
+  "bin": {
+    "algolia-cli": "./cli.js"
+  },
   "bugs": {
     "url": "https://github.com/rjcool100/Algolia-Cli/issues"
   },
