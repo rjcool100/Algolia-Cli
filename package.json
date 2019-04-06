@@ -1,0 +1,24 @@
+{
+  "name": "algolia-cli",
+  "version": "1.0.0",
+  "description": "A cli to search and query the algolia search engine",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjcool100/Algolia-Cli.git"
+  },
+  "author": "rojo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjcool100/Algolia-Cli/issues"
+  },
+  "homepage": "https://github.com/rjcool100/Algolia-Cli#readme",
+  "dependencies": {
+    "algoliasearch": "^3.32.1",
+    "table": "^5.2.3"
+  },
+  "devDependencies": {}
+}
